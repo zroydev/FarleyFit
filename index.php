@@ -5,7 +5,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>Zachary Roy | Photographer</title>
+    <title>Zachary Roy</title>
 
     <script src="https://kit.fontawesome.com/05a4fe5c8d.js" crossorigin="anonymous"></script>
     <!-- <script src="https://kit.fontawesome.com/05a4fe5c8d.js" crossorigin="anonymous"></script> -->
