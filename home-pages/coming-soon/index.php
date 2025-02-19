@@ -1,0 +1,1 @@
+<?php header("Location: http://farleyfit.com/coming-soon"); ?>

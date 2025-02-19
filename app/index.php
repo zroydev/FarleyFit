@@ -1,0 +1,1 @@
+<?php header("Location: https://farley-fitness.trainerize.com/"); ?>

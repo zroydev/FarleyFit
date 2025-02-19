@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "farleyfit.com",
+  "Id": "cd2970b5-a23c-4b44-889d-6c31e1749766"
+}

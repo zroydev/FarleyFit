@@ -1,0 +1,1 @@
+<?php header("Location: https://outlook.office365.com/owa/calendar/FarleyFitClientBooking@farleyfit.com/bookings/"); ?>
