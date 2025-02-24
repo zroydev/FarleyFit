@@ -56,7 +56,7 @@
                     <div class="zyth-modern-menu-nav-base">
                         <ul id="menu-main-navigation" class="menu">
                             <li class="menu-item"><a href="/">Home</a></li>
-                            <li class="menu-item menu-item-has-children"><a href="/about">About</a>
+                            <li class="menu-item menu-item-has-children"><a href="/about">About Me</a>
                                 <!-- <ul class="sub-menu">
                                     <li class="menu-item"><a href="/faq">FAQ</a></li>
                                 </ul> -->
