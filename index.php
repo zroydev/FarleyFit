@@ -212,7 +212,7 @@
                                                             data-frame_1="st:980;sR:980;"
                                                             data-frame_999="o:0;st:w;sR:7720;"
                                                             style="z-index: 17; font-family: 'Poppins'; text-transform: uppercase;">
-                                                            Reach Your Goals
+                                                            Let US Reach Your Goals
                                                         </rs-layer>
                                                         <!--							-->
                                                         <a id="slider-1-slide-1-layer-8" class="rs-layer gdlr-core-button-item" href="/plans" target="_self" data-type="button"
